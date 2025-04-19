@@ -1,6 +1,6 @@
+<?php
 //! Single Responsability Principle - Principio de Responsabilidad Única.
 
-<?php
 class Order
 {
   private $items = [];
