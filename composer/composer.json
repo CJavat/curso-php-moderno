@@ -1,0 +1,20 @@
+{
+    "name": "c-javat-x/composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "CJavatX\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CJavatX",
+            "email": "cdpm98@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "nesbot/carbon": "2.x-dev",
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
